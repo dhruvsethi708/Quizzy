@@ -36,9 +36,9 @@ py manage.py runserver
 - Now enter following URL in Your Browser Installed On Your Pc
 ```
 http://127.0.0.1:8000/
-```![1](https://user-images.githubusercontent.com/74965209/182042296-00dc021a-ec15-4b9a-b09f-a52f4bca47de.png)
 
 
+![1](https://user-images.githubusercontent.com/74965209/182042296-00dc021a-ec15-4b9a-b09f-a52f4bca47de.png)
 
 ![2](https://user-images.githubusercontent.com/74965209/182042310-efa9eb9f-d1fb-4b28-8cca-acc0a0a73798.png)
 
@@ -51,6 +51,7 @@ http://127.0.0.1:8000/
 ![127 0 0 1_8000 - Google Chrome 01-08-2022 00_00_54](https://user-images.githubusercontent.com/74965209/182042331-c06bb164-4480-42cf-8993-d498cfc61bfe.png)
 
 ![127 0 0 1_8000 - Google Chrome 01-08-2022 00_01_11](https://user-images.githubusercontent.com/74965209/182042337-9ca92e20-fcd1-4cb4-bc88-6acaaa6d84e2.png)
+
 ![127 0 0 1_8000 - Google Chrome 01-08-2022 00_03_24](https://user-images.githubusercontent.com/74965209/182042341-662ad601-ba59-4263-9b08-e8e92c51e979.png)
 
 ![127 0 0 1_8000 - Google Chrome 01-08-2022 00_05_13](https://user-images.githubusercontent.com/74965209/182042347-105dbaca-d6fe-4e30-8656-f905655c0589.png)
